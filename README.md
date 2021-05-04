@@ -9,14 +9,14 @@
     I've followed this tutorial in order to improve my CSS and HTML skills.
 </p>
 <p>
-    Status: :construction: ongoing </br>
-    Demo: :construction: comming soon
+    Status: :rocket: deployed! </br>
+    Demo: http://rqguzman-travel-traversy.surge.sh/
 </p>
 
 ### MOBILE SNAPSHOTS
 ![mobile_lg](https://github.com/rqguzman/assets/blob/main/snapshots/travel/mobile_lg.png) (414px screen)
-
-![mobile_sm](https://github.com/rqguzman/assets/blob/main/snapshots/travel/mobile_sm.png) (320px screen)
+</br>
+</br>![mobile_sm](https://github.com/rqguzman/assets/blob/main/snapshots/travel/mobile_sm.png) (320px screen)
 
 ## LICENCE
 
