@@ -24,3 +24,38 @@
     
     color: white;
 }
+
+.showcase header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 100%;
+    padding: 40px 100px;
+
+}
+
+.logo {
+    font-size: 2.4rem;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.toggle {
+    position: relative;
+    
+    width: 60px;
+    height: 60px;
+
+    background: url('../img/menu.png');
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: center;
+
+    cursor: pointer;
+}
