@@ -8,6 +8,7 @@
     font-size: 62.5%;
 }
 
+/* CONTAINER */
 .showcase {
     position: absolute;
     right: 0;
@@ -25,6 +26,7 @@
     color: white;
 }
 
+/* HEADER */
 .showcase header {
     position: absolute;
     top: 0;
@@ -58,4 +60,36 @@
     background-position: center;
 
     cursor: pointer;
+}
+
+/* TOGGLE MENU */
+.toggle.active {
+    background: url('../img/close.png');
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: center;
+}
+
+/* VIDEO */
+.showcase video {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 100%;
+
+    object-fit: cover;
+    opacity: 0.8;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 100%;
+    background-color: #94dfdf;
+    mix-blend-mode: overlay;
 }
