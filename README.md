@@ -1,5 +1,5 @@
 # TRAVEL LANDING PAGE
-
+</br>![web](https://github.com/rqguzman/assets/blob/main/snapshots/travel/web.png)
 <p>
     This is an educational project provided by Brad Traversy, from </br>
     Traversy Media(https://www.traversymedia.com/) </br>
@@ -14,7 +14,10 @@
 </p>
 
 ### MOBILE SNAPSHOTS
-:construction: comming soon
+<p>
+
+![mobile_lg](https://github.com/rqguzman/assets/blob/main/snapshots/travel/mobile_lg.png)(414px screen) | ![mobile_sm](https://github.com/rqguzman/assets/blob/main/snapshots/travel/mobile_sm.png)(320px screen)
+</p>
 
 ## LICENCE
 
@@ -23,7 +26,8 @@
 ## TECHNOLOGIES
 <p>
     <img src="https://github.com/rqguzman/assets/blob/main/ColoredBadges/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">
-    <img src="https://github.com/rqguzman/assets/blob/main/ColoredBadges/svg/dev/languages/css3.svg" alt="CSS3" style="vertical-align:top margin:6px 4px">    
+    <img src="https://github.com/rqguzman/assets/blob/main/ColoredBadges/svg/dev/languages/css3.svg" alt="CSS3" style="vertical-align:top margin:6px 4px">
+     <img src="https://github.com/rqguzman/assets/blob/main/ColoredBadges/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top margin:6px 4px">
 </p>
 
 ### BUILT WITH  
