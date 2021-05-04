@@ -14,10 +14,9 @@
 </p>
 
 ### MOBILE SNAPSHOTS
-<p>
+![mobile_lg](https://github.com/rqguzman/assets/blob/main/snapshots/travel/mobile_lg.png) (414px screen)
 
-![mobile_lg](https://github.com/rqguzman/assets/blob/main/snapshots/travel/mobile_lg.png)(414px screen) | ![mobile_sm](https://github.com/rqguzman/assets/blob/main/snapshots/travel/mobile_sm.png)(320px screen)
-</p>
+![mobile_sm](https://github.com/rqguzman/assets/blob/main/snapshots/travel/mobile_sm.png) (320px screen)
 
 ## LICENCE
 
